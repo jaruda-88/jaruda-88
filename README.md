@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <--<a href="https://www.credly.com/badges/7965de73-d863-44ed-985c-1b0d8a97d101/public_url" target="_blank"><img src="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></a>-->
   </p>
 </span>
 </br>
