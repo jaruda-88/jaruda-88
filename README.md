@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img src="https://www.credly.com/badges/7965de73-d863-44ed-985c-1b0d8a97d101/public_url">
   </p>
 </span>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7965de73-d863-44ed-985c-1b0d8a97d101" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaruda-88&langs_count=8"/>
