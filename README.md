@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/znSZ24c/aws-certified-cloud-practitioner.png" alt="aws-certified-cloud-practitioner" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/znSZ24c/aws-certified-cloud-practitioner.png" width=100 height=100 alt="aws-certified-cloud-practitioner" border="0"></a>
   </p>
 </span>
 </br>
